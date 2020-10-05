@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/EnriqueSanchez0721/Building%20LO%20test/_apis/build/status/Blackbaud-EnriqueSanchez.pipelines-java?branchName=master)](https://dev.azure.com/EnriqueSanchez0721/Building%20LO%20test/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
